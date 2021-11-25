@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1017236283986",
+    "project_id": "filmy-34423",
+    "storage_bucket": "filmy-34423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017236283986:android:9a29e4fce8b6649ff1b58b",
+        "android_client_info": {
+          "package_name": "com.example.filmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017236283986-ta390qtnv9l14skk6fk0r4bsd1k2nel9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.filmy",
+            "certificate_hash": "ecd5d8368bf69b4d0251d11efb533b4c8895769c"
+          }
+        },
+        {
+          "client_id": "1017236283986-70l6hf8944h9lpve0h8m2q5451m07opk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ZhLFYfWya3PK3kkd84f3ifIzjQPeuxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017236283986-70l6hf8944h9lpve0h8m2q5451m07opk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
